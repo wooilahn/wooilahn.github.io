@@ -1,11 +1,7 @@
 ---
 layout: post
 title:  "Work Experience"
-date:   2014-09-30 14:34:25
-categories: mediator feature
-tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
-image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
+date:   2020-01-03 14:00:00
 ---
 
 - *Jul. 2019 – Aug. 2019*  

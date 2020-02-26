@@ -1,10 +1,7 @@
 ---
 layout: post
 title:  "Awards & Scholarships"
-date:   2014-08-29 14:34:25
-categories: jekyll update
-tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+date:   2020-01-02 14:00:00
 ---
 
 - Academic Scholarship for 7 semesters (2016 Fall - 2019 Fall)
