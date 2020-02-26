@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Awards & Scholarships"
+date:   2014-08-29 14:34:25
+categories: jekyll update
+tags: featured
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+
+- Academic Scholarship for 7 semesters (2016 Fall - 2019 Fall)
+- Guwon Foundation Scholarship for 3 semesters (2017 Spring, 2017 Fall, 2018 Fall)   

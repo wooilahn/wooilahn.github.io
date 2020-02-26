@@ -1,0 +1,70 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+remote_theme : dirkfabisch/mediator
+
+# Site settings
+title: "Woo-Il Ahn"
+description:  # this means to ignore newlines until "email:"
+   Master's Student in KAIST SoC  
+
+email: boxer1532@gmail.com
+#blog logo
+logo: "/assets/images/wooil.jpg"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/background_image.jpg"
+
+name: 'Woo-Il Ahn'
+author: 'Woo-Il Ahn'
+author_image: "/assets/images/wooil.jpg"
+
+url: "https://wooilahn.github.io/" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@dirkfabisch'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	linkedin
+    url:	https://linkedin.com/in/wooil-ahn-9738561a2 
+    desc: wooil's linkedin page
+    share_url: 
+    share_title: 
+    share_link: 
+
+  - icon:	github
+    url:	https://github.com/wooilahn
+    desc:	wooil's github page
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	twitter
+#    url:	https://twitter.com/id
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/id
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+#  - icon:	google-plus
+#    url:	https://google.com/id
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
