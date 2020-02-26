@@ -2,6 +2,7 @@
 layout: post
 title:  "Skills"
 date:   2020-01-01 14:00:00
+tags: featured
 ---
 
 - **Programming**

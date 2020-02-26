@@ -2,6 +2,7 @@
 layout: post
 title:  "Education"
 date:   2020-01-04 14:00:00
+tags: featured
 ---
 
 - *Mar. 2020 – Feb. 2022 (Expected)*  

@@ -2,6 +2,7 @@
 layout: post
 title:  "Work Experience"
 date:   2020-01-03 14:00:00
+tags: featured
 ---
 
 - *Jul. 2019 – Aug. 2019*  
