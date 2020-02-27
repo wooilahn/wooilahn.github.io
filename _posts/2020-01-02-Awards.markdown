@@ -5,5 +5,5 @@ date:   2020-01-02 14:00:00
 tags: featured
 ---
 
-- Academic Scholarship for 7 semesters (2016 Fall - 2019 Fall)
-- Guwon Foundation Scholarship for 3 semesters (2017 Spring, 2017 Fall, 2018 Fall)   
+- Academic Scholarship, Ajou University, 2 semesters (2016 Fall - 2019 Fall)
+- Guwon Foundation Scholarship, 3 semesters (2017 Spring, 2017 Fall, 2018 Fall)   
