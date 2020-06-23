@@ -6,7 +6,7 @@ gems:
 remote_theme : dirkfabisch/mediator
 
 # Site settings
-title: "Woo-Il Ahn"
+title: "Wooil Ahn"
 description:  # this means to ignore newlines until "email:"
    Master's Student in KAIST SoC
 
